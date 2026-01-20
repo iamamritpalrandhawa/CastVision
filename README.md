@@ -9,9 +9,6 @@ CastVision is a deep learning–based image classification system developed to a
 - Improves inspection accuracy
 - Reduces time and human error in quality control
 
-## Dataset used for this project:
-[Casting products image dataset](https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product)
-
 ## Type of data:
 The problem is an image classification problem. We have a train dataset having 6633 images and test dataset of 715 images
 
